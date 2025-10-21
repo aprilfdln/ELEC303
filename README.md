@@ -9,4 +9,3 @@
 
 ### FINALS ACTIVITIES
 #### [ACTIVITY 3: DENGUE CASES IN PHILIPPINES](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Activity3.ipynb)
-#### [ASSIGNMENT: LINEAR REGRESSION] ()
