@@ -8,5 +8,6 @@
 
 
 ### FINALS ACTIVITIES
-#### [ACTIVITY 3: DENGUE CASES IN PHILIPPINES](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Activity3.ipynb)
-#### [ASSIGNMEMT: LINEAR REGRESSION](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Fedelino_April_SalaryPrediction.ipynb)
+#### [PROJECT 3: DENGUE CASES IN PHILIPPINES](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Activity3.ipynb)
+#### [ASSIGNMEMT: LINEAR REGRESSION ASSIGNMENT(https://github.com/aprilfdln/ELEC303/blob/main/Projects/Fedelino_April_SalaryPrediction.ipynb)
+#### [PROJECT 4: LINEAR REGRESSION](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Project4_Linear_Regression.ipynb)
