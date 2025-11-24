@@ -11,6 +11,6 @@
 #### [PROJECT 3: DENGUE CASES IN PHILIPPINES](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Activity3.ipynb)
 #### [ASSIGNMEMT: LINEAR REGRESSIONASSIGNMENT](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Fedelino_April_SalaryPrediction.ipynb)
 #### [PROJECT 4: LINEAR REGRESSION](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Project4_Linear_Regression.ipynb)
-#### [PROJECT 5: REGRESSION MACHINE LEARNINIG]
+#### [PROJECT 5: REGRESSION MACHINE LEARNINIG](https://github.com/aprilfdln/ELEC303/blob/main/Projects/Machine_Learning_Exercise1-Fedelino.ipynb)
 #### [PROJECT 6: CLASSIFICATION MACHINE LEARNING]
 #### [PROJECT 7: POWER BI BASIC VISUALIZATION]
